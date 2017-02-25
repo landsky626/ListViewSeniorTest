@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/more_nav"
+        android:icon="@android:drawable/ic_menu_more"
+        android:title="title" />
+    <item
+        android:id="@+id/delete_nav"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="delete" />
+    <item
+        android:id="@+id/edit_nav"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="edit" />
+    <item
+        android:id="@+id/email_nav"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="email" />
+</menu>
